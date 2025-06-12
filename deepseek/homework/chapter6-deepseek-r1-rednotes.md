@@ -87,3 +87,7 @@ Thinking...
 
 #蓝牙降噪 #音乐达人 #音频生活
 ```
+
+## Open-WebUI output
+[open-webui-output](./open-webui-DS-7b.png)
+
