@@ -89,5 +89,6 @@ Thinking...
 ```
 
 ## Open-WebUI output
+<img src='./open-webui-DS-7b.png' />
 [open-webui-output](./open-webui-DS-7b.png)
 
