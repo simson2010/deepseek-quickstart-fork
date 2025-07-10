@@ -1,0 +1,33 @@
+{
+  "mcpServers": {
+    "12306-mcp": {
+      "autoApprove": [
+        "get-station-code-of-citys"
+      ],
+      "disabled": false,
+      "timeout": 60,
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "12306-mcp"
+      ]
+    },
+    "weather": {
+      "disabled": false,
+      "timeout": 60,
+      "type": "stdio",
+      "command": "uv",
+      "args": [
+        "--directory",
+        "C:\\Users\\simso\\MCPs\\weather",
+        "run",
+        "--with",
+        "fastmcp",
+        "fastmcp",
+        "run",
+        "server.py"
+      ]
+    }
+  }
+}
