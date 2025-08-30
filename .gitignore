@@ -178,3 +178,6 @@ cython_debug/
 *.db.lock
 *.zip
 deepseek/api/milvus_docs/*
+mcp/dev*
+a2a/*
+.DS_Store
