@@ -127,6 +127,7 @@ async def get_forecast(latitude: float, longitude: float) -> str:
 
 # --- 服务器启动 ---
 
+
 # 这是一个标准的 Python 入口点检查
 # 确保只有当这个文件被直接运行时，以下代码才会被执行
 if __name__ == "__main__":
